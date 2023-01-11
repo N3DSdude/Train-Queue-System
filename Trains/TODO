@@ -1,0 +1,4 @@
+1. Use 3 data structures (State machine, Priority queue, Graph)
+2. Read train data from a text file
+3. Lists the arrival/departure time of trains at a certain station
+4. Simulate the trains over time

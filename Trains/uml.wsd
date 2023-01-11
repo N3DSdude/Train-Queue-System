@@ -1,0 +1,10 @@
+@startuml trains
+actor user
+class TrainNetwork
+class Station
+class Train
+file Main
+
+user -> Main: Simulating the train network
+
+@enduml

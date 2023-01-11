@@ -1,0 +1,42 @@
+5
+
+StationA
+2
+2
+StationB 3
+StationE 3
+
+StationB
+5
+3
+StationA 2
+StationC 3
+StationD 6
+
+StationC
+1
+2
+StationB 3
+StationE 2
+
+StationD
+2
+1
+StationB 3
+
+StationE
+5
+2
+StationA 4
+StationC 3
+
+3
+
+TrainA
+StationA
+
+TrainB
+StationC
+
+TrainC
+StationE
